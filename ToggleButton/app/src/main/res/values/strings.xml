@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToggleButton</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Hide and Seek!</string>
+    <string name="empty" />
+    <string name="show_text">Peek a Boo!</string>
+</resources>
